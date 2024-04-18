@@ -1,0 +1,12 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color:rgb(255, 210, 210) ;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+    margin-top: 20%;
+    background-image: url("y.jpg");
+    background-size: cover;
+}

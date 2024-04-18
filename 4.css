@@ -1,0 +1,14 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-size: 20px;
+    background-color:rgb(255, 210, 210) ;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+    background-image: url(4.jpg);
+    background-size: cover;
+    margin-top: 20%;
+    border: 2px solid black;
+}
